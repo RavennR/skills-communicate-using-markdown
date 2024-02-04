@@ -80,4 +80,5 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 </footer>
 
-I made 2 changes doing a header infront of "_Welcome to "Communicate using Markdown"! :wave:_" and "_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._"
+I made 2 changes doing a header infront of "_Welcome to "Communicate using Markdown"! :wave:_" and "_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._" 
+--cleanup=whitespace
