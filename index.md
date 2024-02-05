@@ -4,5 +4,4 @@ I made 2 changes doing a <h1> header infront of "_Welcome to "Communicate using 
 
 
 ![alt text](http://url/to/img.png)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
